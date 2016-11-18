@@ -1,2 +1,2 @@
-# Siteboogz
-Welcome to LBWC: Libre Browser Website Compatibility
+# WILB
+Website Incompatibilities for Libre Browsers
