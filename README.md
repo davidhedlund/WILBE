@@ -9,4 +9,4 @@ To participate you must install
 
 WILB has been linked to in:
 * https://directory.fsf.org/wiki/Free_Software_Directory:IceCat_extensions_(proposed)/Resources
-* #icecat topic at freenode.net
+* #icecat (topic) IRC channel at freenode.net
