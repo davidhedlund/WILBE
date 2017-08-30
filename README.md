@@ -1,5 +1,5 @@
-# WILB
-Website Incompatibilities for Libre Browsers
+# WILBE
+Website Incompatibilities for Libre Browsers and WebExtensions
 
 To participate you must install
 * The latest version of IceCat, and the Firefox ESR version that it is build upon.
