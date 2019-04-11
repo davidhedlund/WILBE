@@ -7,6 +7,6 @@ To participate you must install
 * At least one non-Firefox based browser.
 
 
-WILB has been linked to in:
+WILBE has been linked to in:
 * https://directory.fsf.org/wiki/Free_Software_Directory:IceCat_extensions_(proposed)/Resources
 * #icecat (topic) IRC channel at freenode.net
